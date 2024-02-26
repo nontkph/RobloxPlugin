@@ -1,3 +1,4 @@
+print("Load Data Github")
 return {
     Author = "XDGAME1016";
     Info = {
