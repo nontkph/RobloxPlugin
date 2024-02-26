@@ -1,6 +1,5 @@
-print("Load Data Github")
-local Main;
-Main = {
+function()
+    return {
     Author = "XDGAME1016";
     Info = {
          [ [[Menu Item Background Color]] ]  = Color3.fromRGB(46 ,46 ,46);
@@ -42,5 +41,4 @@ Main = {
          [ [[Whitespace Color]] ]  = Color3.fromRGB(63 ,62 ,112);
     };
 };
-
-warn(Main)
+end
