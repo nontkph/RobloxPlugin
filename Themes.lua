@@ -1,4 +1,4 @@
-local manitable = {
+return {
     Author = "XDGAME1016";
     Info = {
          [ [[Menu Item Background Color]] ]  = Color3.fromRGB(46 ,46 ,46);
