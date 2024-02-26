@@ -1,4 +1,4 @@
-function()
+return function()
     return {
     Author = "XDGAME1016";
     Info = {
