@@ -42,7 +42,7 @@ return function()
 				[ [[Whitespace Color]] ]  = Color3.fromRGB(63 ,62 ,112);
 			};
 		};
-		
+
 		["Darken"] = {
 			Author = "nontkph_40404";
 			Info = {
@@ -85,7 +85,7 @@ return function()
 				[ [[Whitespace Color]] ]  = Color3.fromRGB(47 ,53 ,65);
 			};
 		};
-		
+
 		["Dark Extra 1"] = {
 			Author = "Roblox";
 			Info = {
@@ -171,6 +171,49 @@ return function()
 				[ [[Script Editor Scrollbar Handle Color]] ]  = Color3.fromRGB(179 ,179 ,179);
 			};
 		};
-
+		["Dark Ari"] = {
+			Author = "nontkph_40404";
+			Info = {
+				[ [[Menu Item Background Color]] ]  = Color3.fromRGB(46 ,46 ,46);
+				[ [[String Color]] ]  = Color3.fromRGB(118 ,172 ,171);
+				[ [[Text Color]] ]  = Color3.fromRGB(117 ,130 ,160);
+				[ [[Warning Color]] ]  = Color3.fromRGB(181 ,118 ,67);
+				[ [[Built-in Function Color]] ]  = Color3.fromRGB(109 ,136 ,159);
+				[ [[Keyword Color]] ]  = Color3.fromRGB(78 ,79 ,117);
+				[ [[Operator Color]] ]  = Color3.fromRGB(109 ,143 ,159);
+				[ [[Debugger Error Line Color]] ]  = Color3.fromRGB(76 ,42 ,42);
+				[ [[Primary Text Color]] ]  = Color3.fromRGB(255 ,255 ,255);
+				[ [[Current Line Highlight Color]] ]  = Color3.fromRGB(45 ,50 ,65);
+				[ [[Error Color]] ]  = Color3.fromRGB(255 ,110 ,112);
+				[ [[Function Name Color]] ]  = Color3.fromRGB(101 ,97 ,157);
+				[ [[Matching Word Background Color]] ]  = Color3.fromRGB(81 ,90 ,107);
+				[ [[Number Color]] ]  = Color3.fromRGB(84 ,102 ,140);
+				[ [["function" Color]] ]  = Color3.fromRGB(118 ,115 ,192);
+				[ [[Debugger Current Line Color]] ]  = Color3.fromRGB(42 ,60 ,76);
+				[ [[Background Color]] ]  = Color3.fromRGB(42 ,44 ,56);
+				[ [[Selection Background Color]] ]  = Color3.fromRGB(44 ,49 ,60);
+				[ [[Selected Menu Item Background Color]] ]  = Color3.fromRGB(38 ,90 ,169);
+				[ [[Bool Color]] ]  = Color3.fromRGB(115 ,136 ,254);
+				[ [[Comment Color]] ]  = Color3.fromRGB(69 ,74 ,90);
+				[ [[Find Selection Background Color]] ]  = Color3.fromRGB(141 ,118 ,0);
+				[ [["local" Color]] ]  = Color3.fromRGB(88 ,86 ,142);
+				[ [[Script Editor Scrollbar Handle Color]] ]  = Color3.fromRGB(179 ,179 ,179);
+				[ [[Script Editor Scrollbar Background Color]] ]  = Color3.fromRGB(46 ,46 ,46);
+				[ [[Selection Color]] ]  = Color3.fromRGB(84 ,81 ,176);
+				[ [[Selected Text Color]] ]  = Color3.fromRGB(255 ,255 ,255);
+				[ [[Secondary Text Color]] ]  = Color3.fromRGB(102 ,102 ,102);
+				[ [["nil" Color]] ]  = Color3.fromRGB(115 ,136 ,254);
+				[ [[Ruler Color]] ]  = Color3.fromRGB(44 ,49 ,60);
+				[ [[Luau Keyword Color]] ]  = Color3.fromRGB(115 ,136 ,254);
+				[ [[Method Color]] ]  = Color3.fromRGB(123 ,114 ,218);
+				[ [["TODO" Color]] ]  = Color3.fromRGB(105 ,117 ,143);
+				[ [["self" Color]] ]  = Color3.fromRGB(60 ,60 ,60);
+				[ [[Bracket Color]] ]  = Color3.fromRGB(161 ,161 ,161);
+				[ [[Property Color]] ]  = Color3.fromRGB(104 ,134 ,169);
+				[ [[Whitespace Color]] ]  = Color3.fromRGB(47 ,53 ,65);
+			};
+		};
+		
+		
 	}
 end
