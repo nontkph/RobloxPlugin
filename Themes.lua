@@ -207,7 +207,7 @@ return function()
 				[ [[Luau Keyword Color]] ]  = Color3.fromRGB(115 ,136 ,254);
 				[ [[Method Color]] ]  = Color3.fromRGB(123 ,114 ,218);
 				[ [["TODO" Color]] ]  = Color3.fromRGB(105 ,117 ,143);
-				[ [["self" Color]] ]  = Color3.fromRGB(60 ,60 ,60);
+				[ [["self" Color]] ]  = Color3.fromRGB(89, 116, 199);
 				[ [[Bracket Color]] ]  = Color3.fromRGB(161 ,161 ,161);
 				[ [[Property Color]] ]  = Color3.fromRGB(104 ,134 ,169);
 				[ [[Whitespace Color]] ]  = Color3.fromRGB(47 ,53 ,65);
